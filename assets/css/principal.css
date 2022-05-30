@@ -1,0 +1,31 @@
+.imagen{
+	width: 100px;
+	float: left;
+}
+.titulo{
+	margin-top: 17px; 
+	color: #18639b; 
+	font-weight: bold;
+}
+.navbar{
+	background:#104f82!important;
+}
+.ml-2{
+	margin-left: 2%;
+}
+.btn-primaryM{
+	background:none!important;
+	border:none;
+}
+.btn-primaryM:hover, .btn-primaryM:active{
+	background:#1c69a5!important;
+}
+.imagen_2{
+
+}
+.nodatos{
+	background: red;
+    color: white;
+    padding: 6px;
+    margin-top: 9px;
+}
